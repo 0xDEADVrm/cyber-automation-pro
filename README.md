@@ -6,16 +6,6 @@
   <img src="https://img.shields.io/badge/Tools-Red%20Team%20%7C%20Bug%20Bounty-yellow?style=for-the-badge&logo=linux">
 </p>
 
-███████╗██╗   ██╗██████╗ ███████╗██████╗      █████╗ ██╗   ██╗████████╗███████╗
-██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║   ██║╚══██╔══╝██╔════╝
-█████╗  ██║   ██║██████╔╝█████╗  ██████╔╝    ███████║██║   ██║   ██║   █████╗  
-██╔══╝  ██║   ██║██╔══██╗██╔══╝  ██╔══██╗    ██╔══██║██║   ██║   ██║   ██╔══╝  
-██║     ╚██████╔╝██║  ██║███████╗██║  ██║    ██║  ██║╚██████╔╝   ██║   ███████╗
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
-
-   ░█▀█░█░█░█▀▀░█▀▄░    CYBER AUTOMATION PRO v1.0 - SKULL HACKER EDITION
-   ░█▀▀░░█░░█▀▀░█▀▄░    Automated Red-Team Recon | CVE → ExploitDB → AI Report
-   ░▀░░░░▀░░▀▀▀░▀░▀░    Telegram Alerts | ASCII UI | Offensive Automation
 
 --------------------------------------------------------------------------------
         ⚡ "The future belongs to those who automate offense." — 0xDEADVrm ⚡

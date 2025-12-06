@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xDEADVrm/cyber-automation-pro/main/banner.png" alt="Cyber Automation Pro Banner"/>
+<img width="1536" height="1024" alt="Skull" src="https://github.com/user-attachments/assets/23870555-2099-477c-8a6d-744f4010f7da" /><p align="center">" 
 </p>
 
 <p align="center">
@@ -68,7 +67,6 @@ Created By **0xDEADVrm**
 - Web dashboard (moved to v2.0 roadmap)
 
 ---
-
 ## ⚠ Known Issues
 | Issue | Status |
 |--------|--------|
